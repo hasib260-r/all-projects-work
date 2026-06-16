@@ -1,4 +1,4 @@
 # all-projects-work
-github respository
+projects
 <br>
 Author-Hasib
